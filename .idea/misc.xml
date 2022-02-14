@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/add_view.xml" value="0.282" />
+        <entry key="app/src/main/res/drawable/gradient-top-radius.xml" value="0.2905" />
+        <entry key="app/src/main/res/drawable/gradient.xml" value="0.392" />
+        <entry key="app/src/main/res/drawable/gradienttopradius.xml" value="0.2905" />
+        <entry key="app/src/main/res/drawable/nav_ellipse.xml" value="0.3855" />
+        <entry key="app/src/main/res/drawable/radius.xml" value="0.392" />
+        <entry key="app/src/main/res/drawable/tomorrow_ico.xml" value="0.284" />
+        <entry key="app/src/main/res/drawable/white_radius.xml" value="0.392" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.375" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

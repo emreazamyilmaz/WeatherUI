@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WeatherUI</string>
+    <string name="city_name">Artvin</string>
+    <string name="day_text">Çarşamba</string>
+    <string name="brace_vert">|</string>
+    <string name="date_text">29 Ocak</string>
+    <string name="temp_view">24</string>
+    <string name="temp_ico">°</string>
+    <string name="temp_detail">Yağmurlu</string>
+    <string name="wind_detail">2.1 km/h</string>
+    <string name="wind_text">Rüzgar</string>
+    <string name="rain_detail">65%</string>
+    <string name="rain_text">Yağış</string>
+    <string name="pressure_detail">1093 mbar</string>
+    <string name="pressure_text">Basınç</string>
+    <string name="humidity_detail">98%</string>
+    <string name="humidity_text">Nem</string>
+    <string name="tomorrow_text">30 Ocak</string>
+    <string name="tomorrow_temps">27°/19°</string>
+    <string name="tomorrow_status">Bulutlu</string>
+</resources>
